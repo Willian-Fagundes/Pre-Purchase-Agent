@@ -1,0 +1,20 @@
+┌──────────────────────┐
+│      Usuário         │
+└──────────┬───────────┘
+           │
+           ▼
+Pesquisador Técnico
+ ┌──────────────────┐
+ ▼                  ▼
+
+Avaliador Mêcanico
+Avaliador de Custos
+Instrutor de Pré-Compra
+           │
+           ▼
+┌──────────────────────┐
+│Agente Avaliador Geral│
+└──────────────────────┘
+           │
+           ▼
+Relatório Final
